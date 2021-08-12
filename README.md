@@ -7,6 +7,8 @@ This is a very simple to learn process.
 
 ## You can change File and Data variables
 The file and data variables are the most important ones here, make sure they're set up properly (A.k.a the proper file and proper parameters within that file).
-Furthermore, you should ###NOT comment out the 'for _ in range(30):' function unless you've trained your dataset and made a pickle file with it! 
+Furthermore, you should 
+### NOT 
+comment out the 'for _ in range(30):' function unless you've trained your dataset and made a pickle file with it! 
 
 ## Good luck.
